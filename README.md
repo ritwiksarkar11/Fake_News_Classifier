@@ -24,7 +24,5 @@
   <hr>
   
   <p> The complete project is deployed on Heroku cloud platform.
-  
- <p> Here is the link where you can access the project live : https://fakenewsclassifiermlwebapp.herokuapp.com <p>
-  <p> If you like this repo, please don't forget to give a ⭐.
+ <p> Here is the link where you can access the project live : https://fake-news-classifier-ritwik.herokuapp.com/ <p>
 </p>
