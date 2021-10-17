@@ -3,6 +3,8 @@
 <p> This is complete End to End ML Application for detecting fake news.</p>
 
 <hr>
+## Flow Chart
+![FLOW CHART](img/flowchart.png)
 
 <h3> Screenshots </h3>
 
