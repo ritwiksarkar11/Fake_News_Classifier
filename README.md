@@ -4,7 +4,7 @@
 
 <hr>
 ## Flow Chart
-![FLOW CHART](img/flowchart.png)
+![FLOW CHART](img/flowchart.jpg)
 
 <h3> Screenshots </h3>
 
