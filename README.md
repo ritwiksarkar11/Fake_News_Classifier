@@ -3,6 +3,7 @@
 <p> This is complete End to End ML Application for detecting fake news.</p>
 
 <hr>
+![image](https://user-images.githubusercontent.com/43826920/137614236-6dd50dfe-c0b9-40da-8974-f196002f6785.png)
 
 <h3> Screenshots </h3>
 
